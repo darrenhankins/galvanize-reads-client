@@ -1,0 +1,33 @@
+.navbar-nav > li > a {
+  padding-top:5px !important;
+  padding-bottom:5px !important;
+}
+.navbar {
+  min-height:80px;
+  font-size: 2em!important;
+  padding-top: .5em!important;
+
+}
+
+body {
+  /*background-color: red !important;*/
+}
+
+
+
+.navbar-brand {
+  /*display: flex;
+  justify-content:space-between;*/
+}
+
+.card-img-top {
+  /*margin: 10em!important;*/
+
+  /*padding-top: 10em!important;*/
+  max-height: 300px;
+}
+
+.card {
+  /*margin: 10em!important;*/
+  /*max-height: 500px;*/
+}
